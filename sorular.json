@@ -1,0 +1,166 @@
+{
+    "c2array": true,
+    "size": [
+        6,
+        8,
+        1
+    ],
+    "data": [
+        [
+            [
+                "He is from ………and he is…………. ."
+            ],
+            [
+                "Are they …………?"
+            ],
+            [
+                "Do they ………..dancing?"
+            ],
+            [
+                "Samuel:What do you like doing in your free time?\nTina: I like …………. ."
+            ],
+            [
+                "Andy: What nationality is she?\nArthur: She is …….. ."
+            ],
+            [
+                "They like ……………with marbles."
+            ],
+            [
+                "Jane: Let’s go swimming.\nTom: Hurray! …………… ."
+            ],
+            [
+                "Sarah: Where is he from?\nIsabel: He is from………. "
+            ]
+        ],
+        [
+            [
+                "Türkiye-Turkish"
+            ],
+            [
+                "Japanese"
+            ],
+            [
+                "like"
+            ],
+            [
+                "snowboarding"
+            ],
+            [
+                "Spanish"
+            ],
+            [
+                "playing"
+            ],
+            [
+                "Of course"
+            ],
+            [
+                "Brazil"
+            ]
+        ],
+        [
+            [
+                "Germany-German"
+            ],
+            [
+                "German"
+            ],
+            [
+                "sleep"
+            ],
+            [
+                "skipping rope"
+            ],
+            [
+                "French"
+            ],
+            [
+                "riding"
+            ],
+            [
+                "I don’t like"
+            ],
+            [
+                "Italy"
+            ]
+        ],
+        [
+            [
+                "Russia-Russian"
+            ],
+            [
+                "Russian"
+            ],
+            [
+                "eat"
+            ],
+            [
+                "hiking"
+            ],
+            [
+                "Turkish"
+            ],
+            [
+                "speaking"
+            ],
+            [
+                "I don’t"
+            ],
+            [
+                "French"
+            ]
+        ],
+        [
+            [
+                "Japan-Japanese"
+            ],
+            [
+                "English"
+            ],
+            [
+                "read"
+            ],
+            [
+                "riding a bike"
+            ],
+            [
+                "Chinese"
+            ],
+            [
+                "flying"
+            ],
+            [
+                "No"
+            ],
+            [
+                "Portugal"
+            ]
+        ],
+        [
+            [
+                "soru_1"
+            ],
+            [
+                "soru_2"
+            ],
+            [
+                "soru_3"
+            ],
+            [
+                "soru_4"
+            ],
+            [
+                "soru_5"
+            ],
+            [
+                "soru_6"
+            ],
+            [
+                "soru_7"
+            ],
+            [
+                "soru_8"
+            ]
+        ]
+    ]
+}
